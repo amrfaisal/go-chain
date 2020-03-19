@@ -5,4 +5,6 @@ Simple Blockchain implementation in Go
 
 `go-chain getbalance -address amr`
 
+`go-chain send -from amr -to test -amount 6`
+
 `go-chain printchain`
